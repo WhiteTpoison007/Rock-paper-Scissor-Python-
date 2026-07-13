@@ -40,7 +40,11 @@ The diagram below shows how the program runs using a `while True` loop. The scor
 │  Print Live Scoreboard 🏆              │
 │                                        │
 └────────────────────────────────────────┘
+
+
 ## 🎮 Game Rules & Logic Hierarchy
+
+
 The game evaluates matches using a strict logical conditional flow:
 ┌───────────────┐
                │  YOUR CHOICE  │
