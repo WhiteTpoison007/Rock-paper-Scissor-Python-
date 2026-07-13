@@ -41,6 +41,7 @@ The diagram below shows how the program runs using a `while True` loop. The scor
 │                                        │
 └────────────────────────────────────────┘
 
+---
 
 ## 🎮 Game Rules & Logic Hierarchy
 
